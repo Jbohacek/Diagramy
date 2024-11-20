@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1062" dy="1413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3180" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,6 +34,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-7" target="_LIsW1uK4jwM1f7cNB0F-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-7" target="_LIsW1uK4jwM1f7cNB0F-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Právní norma&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Právní norma je pravidlo chování stanovena&lt;/div&gt;&lt;div&gt;státem, která se vztahuje k fyzickým právníckým osobám&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Je to prostě jeden zákon&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -133,13 +136,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-46" value="&lt;b&gt;Kumulativní&amp;nbsp;&lt;/b&gt;&lt;div&gt;NEBO&lt;/div&gt;&lt;div&gt;&lt;b&gt;Alternativní&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-48" value="&lt;b&gt;Kumulativní&lt;/b&gt;&lt;div&gt;&amp;nbsp;&lt;font style=&quot;font-size: 9px;&quot;&gt;Musí být splněny &lt;b&gt;všechny&lt;/b&gt; uvedené podmínky. &quot;a&quot;, &quot;jakož&quot;, &quot;i&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="60" width="170" height="70" as="geometry" />
+          <mxGeometry x="1770" y="60" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-49" value="&lt;b&gt;Alternativní&lt;/b&gt;&lt;div&gt;&amp;nbsp;&lt;font style=&quot;font-size: 9px;&quot;&gt;Stačí splnit &lt;b&gt;alespoň jednu&lt;/b&gt; z uvedených podmínek. &quot;nebo&quot; &quot;anebo&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="180" width="170" height="70" as="geometry" />
+          <mxGeometry x="1770" y="180" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-55" target="_LIsW1uK4jwM1f7cNB0F-56">
           <mxGeometry relative="1" as="geometry" />
@@ -148,13 +151,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-55" value="&lt;div&gt;&lt;b&gt;Taxativní&lt;/b&gt;&lt;/div&gt;&lt;div&gt;NEBO&lt;/div&gt;&lt;div&gt;&lt;b&gt;Demonstrativní&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-56" value="&lt;b&gt;Taxativní&lt;/b&gt;&lt;div&gt;&lt;b&gt;Konkrétní, uzavřený výčet&lt;/b&gt;, nelze ho rozšiřovat.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-170" width="170" height="70" as="geometry" />
+          <mxGeometry x="1770" y="-170" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-57" value="&lt;b&gt;Demonstrativní&lt;/b&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Příkladný výčet&lt;/b&gt;, je možné zohlednit i další neuvedené skutečnosti.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-50" width="170" height="70" as="geometry" />
+          <mxGeometry x="1770" y="-50" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-60" target="_LIsW1uK4jwM1f7cNB0F-61">
           <mxGeometry relative="1" as="geometry" />
@@ -163,13 +166,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-60" value="&lt;b&gt;Kogentivní&lt;/b&gt;&lt;br&gt;&lt;div&gt;NEBO&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dispozitivní&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="-320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-61" value="&lt;b&gt;Kogentivní&lt;/b&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Neumožňují odchylky&lt;/b&gt;. Adresáti se musí striktně řídit tím, co norma stanoví.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-390" width="170" height="70" as="geometry" />
+          <mxGeometry x="1770" y="-390" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-62" value="&lt;b&gt;Dispozitivní&lt;/b&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;Umožňují odchylky&lt;/b&gt; od zákonné úpravy &lt;b&gt;dohodou stran&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="-270" width="170" height="70" as="geometry" />
+          <mxGeometry x="1770" y="-270" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-65" target="_LIsW1uK4jwM1f7cNB0F-68">
           <mxGeometry relative="1" as="geometry" />
@@ -216,8 +219,53 @@
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-81" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Relativní působnost&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt; Týká se subjektů, na které se vztahují pouze určité právní normy. Například poslanci mají specifická práva a povinnosti daná ústavou a dalšími zákony.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="880" width="300" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-90" target="_LIsW1uK4jwM1f7cNB0F-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-90" target="_LIsW1uK4jwM1f7cNB0F-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-90" value="Subjektivní&lt;div&gt;X&lt;/div&gt;&lt;div&gt;Objektivní&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-91" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Subjektivní&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Tyto mody se vztahují k pozici subjektu (jedince) vůči normě a k tomu,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;jaká práva a povinnosti z ní pro něj plynou.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Oprávnění&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Povinnost&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-220" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-92" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Objektivní&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Tyto mody se vztahují k samotnému obsahu právní normy,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;k tomu, co norma nařizuje, zakazuje nebo dovoluje.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- Příkaz&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- Zákaz&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- Dovolení&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="-220" width="245" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-96" target="_LIsW1uK4jwM1f7cNB0F-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-96" target="_LIsW1uK4jwM1f7cNB0F-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-96" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 57px;&quot;&gt;Právo&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-385" width="270" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-99" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;V širším slova smyslu&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Je každý soubor pravidel co je.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-100" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-100" target="_LIsW1uK4jwM1f7cNB0F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;V užším slova smyslu&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;font style=&quot;font-size: 9px;&quot;&gt;pouze taková pravidla chování, které jsou stanovené státem a jejich dodržování je vynutitelné státem (právní předpisy)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-90" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-104" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Systémy práva&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-105" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Právo kontinentální&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;základem je převzaté římské právo. Státem vynutitelné právní normy jsou zakotveny v obecně závazných právních předpisech. Soudy jsou obecně závaznými právními předpisy vázány a toto právo aplikují. Tento systém je aplikován v celé kontinentální Evropě s výjimkou Anglie.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="-610" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-106" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Právo Angloamerické&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;nebylo ovlivněno římským právem. Základem je nalézání práva soudem na základě rozsudků s obecným naučením – tzv. soudních precedentů. Soudy právo neustále dotvářejí. Tento systém se v současné době uplatňuje ve Velké Británii, Severním Irsku, Spojených státech amerických apod.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="-397.5" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-107" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Systém tradičních a náboženských práv&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Tyto mody se vztahují k pozici subjektu (jedince) vůči normě a k tomu,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;jaká práva a povinnosti z ní pro něj plynou.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Oprávnění&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Povinnost&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="-220" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Subjektivní&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Tyto mody se vztahují k pozici subjektu (jedince) vůči normě a k tomu,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;jaká práva a povinnosti z ní pro něj plynou.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Oprávnění&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- Povinnost&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="-40" width="230" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
