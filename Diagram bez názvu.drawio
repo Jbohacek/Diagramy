@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3559" dy="1501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3356" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-7" target="_LIsW1uK4jwM1f7cNB0F-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-7" target="_LIsW1uK4jwM1f7cNB0F-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Právní norma&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Právní norma je pravidlo chování stanovena&lt;/div&gt;&lt;div&gt;státem, která se vztahuje k fyzickým právníckým osobám&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Je to prostě jeden zákon&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -210,14 +213,14 @@
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-78" target="_LIsW1uK4jwM1f7cNB0F-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_LIsW1uK4jwM1f7cNB0F-78" value="Vyjímky" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-78" value="Imunita" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_LIsW1uK4jwM1f7cNB0F-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Absolutní působnost&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt; Týká se subjektů, na které se vztahují všechny právní normy, bez výjimky. Typickým příkladem je prezident jako hlava státu.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="880" width="300" height="100" as="geometry" />
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Absolutní imunita&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt; Jedná se o nejvyšší stupeň ochrany, kdy osoba je zcela vyňata z působnosti trestního práva. To znamená, že za své jednání nemůže být stíhána ani potrestána, a to ani v případě spáchání závažných trestných činů.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Například: monarch, prezident&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="880" width="300" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="_LIsW1uK4jwM1f7cNB0F-81" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Relativní působnost&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt; Týká se subjektů, na které se vztahují pouze určité právní normy. Například poslanci mají specifická práva a povinnosti daná ústavou a dalšími zákony.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="880" width="300" height="100" as="geometry" />
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-81" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Relativní imunita&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt; Na rozdíl od absolutní imunity není relativní imunita absolutní. Osoby požívající relativní imunity mohou být za své jednání stíhány a potrestány, avšak za určitých specifických podmínek.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Například: Soudci, poslanci&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="880" width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-90" target="_LIsW1uK4jwM1f7cNB0F-91">
           <mxGeometry relative="1" as="geometry" />
@@ -249,11 +252,16 @@
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-99" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;V širším slova smyslu&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;Je každý soubor pravidel co je.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-610" y="-100" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_LIsW1uK4jwM1f7cNB0F-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-100" target="_LIsW1uK4jwM1f7cNB0F-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-100" target="_LIsW1uK4jwM1f7cNB0F-114">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-100" target="_LIsW1uK4jwM1f7cNB0F-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-100" target="_LIsW1uK4jwM1f7cNB0F-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="1130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;V užším slova smyslu&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;font style=&quot;font-size: 9px;&quot;&gt;pouze taková pravidla chování, které jsou stanovené státem a jejich dodržování je vynutitelné státem (právní předpisy)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="-90" width="190" height="90" as="geometry" />
@@ -314,6 +322,47 @@
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Právo soukromé&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Upravuje vztahy mezi soukromými subjekty, kde si jsou rovny.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Příklad: Občanský zákoník, obchodní právo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="590" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-130" target="_LIsW1uK4jwM1f7cNB0F-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-130" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Právní vztah&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Veškeré vztahy mezi subjekty jsou společenskými vztahy.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Pokud jsou regulovány právním normou, jedná se o vztahy právní.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Právní vztah je společenský vztah upravený právní normou&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1340" width="260" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-134" target="_LIsW1uK4jwM1f7cNB0F-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-134" value="Obsah" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1390" width="105" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-136" target="_LIsW1uK4jwM1f7cNB0F-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-136" target="_LIsW1uK4jwM1f7cNB0F-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-136" target="_LIsW1uK4jwM1f7cNB0F-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="1180" />
+              <mxPoint x="1120" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-136" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Subjekt&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1160" width="140" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Fyzická osoba&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Od narození&lt;/div&gt;&lt;div&gt;Nelze omezit nebo odejmout&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1090" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-138" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Právnická osoba&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Uměla fiktivní osoba vytvořena právem&lt;/div&gt;&lt;div&gt;Například: s.r.o.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1200.5" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-141" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Další právnické osoby&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;sdružení, korporace&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Majetkové celky&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;uzemí samosprávy&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;....&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1280" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_LIsW1uK4jwM1f7cNB0F-144" value="Objekt&lt;div&gt;Věci, práva, vynálezy, ochrana osobnosti&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
