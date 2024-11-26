@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="6896" dy="3706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6554" dy="3518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,14 +319,28 @@
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_LIsW1uK4jwM1f7cNB0F-116" target="_LIsW1uK4jwM1f7cNB0F-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fdGREgwn8mYExxz_6cr--117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-116" target="_LIsW1uK4jwM1f7cNB0F-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-116" value="Veřejné právo&lt;div&gt;X&lt;/div&gt;&lt;div&gt;Soukromé právo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-495" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-117" value="Objektivní právo&lt;div&gt;X&lt;/div&gt;&lt;div&gt;Subjektivní právo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fdGREgwn8mYExxz_6cr--119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-123" target="mtqeFItuyaZTNhWyNCEo-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-605" y="810" />
+              <mxPoint x="630" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-123" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Právo veřejné&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Upravuje vztahy, kde alespoň na jedné straně vystupuje stát jako nositel veřejné moci.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Příklad: Ústavní právo, trestní právo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="590" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fdGREgwn8mYExxz_6cr--118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_LIsW1uK4jwM1f7cNB0F-124" target="mtqeFItuyaZTNhWyNCEo-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_LIsW1uK4jwM1f7cNB0F-124" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Právo soukromé&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Upravuje vztahy mezi soukromými subjekty, kde si jsou rovny.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Příklad: Občanský zákoník, obchodní právo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="590" width="250" height="110" as="geometry" />
