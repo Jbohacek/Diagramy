@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="6554" dy="3518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5839" dy="3123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -787,6 +787,9 @@
         </mxCell>
         <mxCell id="fdGREgwn8mYExxz_6cr--115" value="Nestíhám" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1351" y="1640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fdGREgwn8mYExxz_6cr--120" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Zápisky na práva&lt;/h1&gt;&lt;p&gt;V momentální chvíli rozpracovaná verze&lt;br&gt;Verze: 0.2 - 26.11.2024&lt;/p&gt;&lt;p&gt;Vypracoval Jakub Boháček 24/25&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-740" width="330" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
